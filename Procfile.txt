@@ -1,1 +1,1 @@
-web: gunicorn textutil.wsgi --logfil -
+web: gunicorn textutil.wsgi --logfile -
